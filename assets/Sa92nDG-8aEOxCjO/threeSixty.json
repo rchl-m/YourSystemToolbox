@@ -1,0 +1,45 @@
+{
+  "version": "3.124.37782.0",
+  "course_id": "6D5QzCv11Pk_course_id",
+  "title": "System-to-System Data Flow",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "not Needed"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6NDCWungHPU",
+      "title": "HOW CASES ARE CREATED IN FIELD SERVICE INTRO",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6cbJBvCJhII",
+      "title": "Order Data Flow",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6j1EjRsatmW",
+      "title": "Untitled Slide",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5k4OBiXF7xG",
+      "title": "Untitled Slide",
+      "scene_index": "2.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1300,
+    "height": 815
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
